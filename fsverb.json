@@ -1,0 +1,50 @@
+{
+  "fVerbs":{
+    "stellen": ["jemandem eine Frage",
+    "einen Antrag",
+    "etwas in Aussicht",
+    "Ansprüche"
+    ],
+    "nehmen": ["von jemandem Abschied",
+    "etwas in Anspruch",
+    "etwas in Angriff",
+    "auf jemanden/etwas Rücksicht",
+    "etwas zur Kenntnis",
+    "auf jemanden/etwas Einfluß",
+    "auf etwas Bezug"
+  ],
+    "tun":["jemandem einen Geffallen",
+    "jemandem etwas Gutes"
+  ],
+    "treffen":["eine Entscheidung",
+    "Maßnahmen",
+    "Vorbereitungen",
+    "eine Verabredung"
+],
+    "machen":[
+      "eine Vorschlag",
+      "jemendem Hoffnung",
+      "jemandem einen Vorwurf"
+    ],
+    "ziehen":[
+      "den Kürzeren",
+      "etwas in Betracht",
+      "etwas in Erwägung"
+    ],
+    "stehen":[
+      "zur Diskussion",
+      "unter Druck",
+      "mit jemandem in Verbindung"
+    ],
+    "bringen":[
+      "jemandem zum Lachen",
+      "etwas zur Sprache",
+      "etwas in Erfahrung"
+    ],
+    "kommen":[
+      "zu einem Ergebnis",
+      "zu Sprache",
+      "infrage"
+    ]
+  }
+}

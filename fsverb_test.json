@@ -1,0 +1,38 @@
+{
+  "fVerbs":{
+    "stellen": [
+    ],
+    "nehmen": ["von jemandem Abschied",
+    "etwas in Anspruch",
+    "etwas in Angriff",
+    "auf jemanden/etwas Rücksicht",
+    "etwas zur Kenntnis",
+    "auf jemanden/etwas Einfluß",
+    "auf etwas Bezug"
+  ],
+    "tun":[""
+  ],
+    "treffen":["eine Entscheidung",
+    "Maßnahmen",
+    "Vorbereitungen",
+    "eine Verabredung"
+],
+    "machen":[
+
+    ],
+    "ziehen":[
+
+    ],
+    "stehen":[
+
+    ],
+    "bringen":[
+
+    ],
+    "kommen":[
+      "zu einem Ergebnis",
+      "zu Sprache",
+      "infrage"
+    ]
+  }
+}
